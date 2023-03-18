@@ -5,3 +5,4 @@ Lowerscase and uppercase alphabets
 Task 4
 Task 5
 Task 6
+Task 7
