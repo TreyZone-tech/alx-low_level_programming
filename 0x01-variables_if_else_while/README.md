@@ -2,3 +2,4 @@
 1-last_digit
 Lower case alphabetss
 Lowerscase and uppercase alphabets
+Task 4
